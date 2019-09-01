@@ -20,6 +20,7 @@ classifiers = [
 
 [tool.poetry.dependencies]
 python = "^3.6"
+aeneas = { version = "^1.7", optional = true }
 
 [tool.poetry.dev-dependencies]
 
