@@ -2,7 +2,7 @@
 name = "audsync"
 version = "0.1.0"
 description = "Unified interface for audio and text alignment tools"
-license = "AGPL-3.0"
+license = "AGPL-3.0-only"
 authors = ["Connor Brinton <connor@brintonium.com>"]
 readme = "README.md"
 repository = "https://github.com/connorbrinton/audsync"
